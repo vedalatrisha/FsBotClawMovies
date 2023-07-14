@@ -1,5 +1,3 @@
-The # (c) @TeleRoidGroup || @PredatorHackerzZ
-
 import os
 import asyncio
 import traceback
